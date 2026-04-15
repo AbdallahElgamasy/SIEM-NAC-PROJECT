@@ -63,7 +63,8 @@ The system consists of three main components:
 ---
 ## 📸 Project Screenshots
 
-*(Add your images here)*
+*(<img width="962" height="983" alt="overview" src="https://github.com/user-attachments/assets/03ddc67e-5733-40ae-9368-1cb48207588d" />
+)*
 
 * System overview
 * Security Onion monitoring
