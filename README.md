@@ -65,8 +65,8 @@ The system consists of three main components:
 
 *(<img width="962" height="983" alt="overview" src="https://github.com/user-attachments/assets/03ddc67e-5733-40ae-9368-1cb48207588d" />
 <img width="1200" height="1600" alt="siem-monitoring" src="https://github.com/user-attachments/assets/91242e55-9a01-4317-be58-c0def078da7a" />
-<img width="1600" height="1200" alt="attack-response" src="https://github.com/user-attachments/assets/557cb0ab-afb4-439a-b38c-5dab69f62e3b" />
 <img width="1200" height="1600" alt="packetfence-dashboard" src="https://github.com/user-attachments/assets/2e27c811-124d-4b4d-8760-a43859f3920c" />
+<img width="1600" height="1200" alt="attack-response" src="https://github.com/user-attachments/assets/557cb0ab-afb4-439a-b38c-5dab69f62e3b" />
 )*
 
 * System overview
